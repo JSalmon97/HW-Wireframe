@@ -1,0 +1,41 @@
+header {
+	background-color:yellow;
+	padding:100px;
+    margin:200px;
+
+}
+
+nav{
+	background-color:blue;
+	padding:100px;
+	margin:200px;
+}
+section{
+	background-color:purple;
+	width:40%;
+	height:200px;
+}
+aside{
+	background-color:red;
+	width:40%;
+	display:inline-block;
+	float:right;
+	height: 200px;
+}
+
+div{
+	background-color:pink;
+	display:block;
+	width:80%;
+	text-align:center;
+	margin:20px;
+}
+article{
+	background-color:brown;
+	text-align:center;
+	margin:20px;
+}
+section{
+	text-align:center;
+	margin:50px;
+}
